@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmboulos12&" alt="jmboulos12" /></p>
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+![]([https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif](https://lifelongfiction.com/post/123627076125))
