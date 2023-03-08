@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmboulos12&" alt="jmboulos12" /></p>
 
-<p><img align="right" src="https://i.giphy.com/media/3o6UBedJJfaxXHvZyU/giphy.webp" alt="jmboulos12" height="30" width="40" /></p>
+<p><img align="right" src="https://i.giphy.com/media/3o6UBedJJfaxXHvZyU/giphy.webp" alt="jmboulos12" height="200" width="300" /></p>
