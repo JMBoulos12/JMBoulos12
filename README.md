@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmboulos12&show_icons=true&locale=en" alt="jmboulos12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmboulos12&" alt="jmboulos12" /></p>
-
-![](https://lifelongfiction.com/post/123627076125))
