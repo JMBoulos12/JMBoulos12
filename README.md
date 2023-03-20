@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmboulos12&label=Profile%20views&color=0e75b6&style=flat" alt="jmboulos12" /> </p>
 
-- 🔭 I’m currently working on **Online ID Card Generator/Printer**
+- 🔭 I’m currently working on enhancing my **Online ID Card Generator/Printer**
 
 - 🌱 I’m currently learning **JavaScript, React**
 
