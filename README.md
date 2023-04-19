@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on enhancing my **Online ID Card Generator/Printer**
 
+- 🔭 I’m currently working on creating a new multi AI website
+
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 How to reach me **jmboulos@outlook.com**
