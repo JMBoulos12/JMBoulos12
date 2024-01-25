@@ -3,7 +3,7 @@
 </div>
 <br><br>
 <h1 align="center">Hi 👋, I'm Jean Marc N. BOULOS</h1>
-<h3 align="center">A Self-taught FullStack developer with 11+ years of experience in multiple companies from Beirut, Lebanon</h3>
+<h3 align="center">A self-taught developer since a young age, I hold an MS degree in CCE with over 11 years of experience in multiple companies from Beirut, Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmboulos12&label=Profile%20views&color=0e75b6&style=flat" alt="jmboulos12" /> </p>
