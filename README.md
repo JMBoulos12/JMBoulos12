@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmboulos12&label=Profile%20views&color=0e75b6&style=flat" alt="jmboulos12" /> </p>
 
-- 🔭 I’m currently updating my old **Python and Django serious applications**
+- 🔭 I’m currently updating my old **Portfolio, MERN Stack, MEAN Stack, Python and Django serious applications projects**
 
 - 🔭 I’m currently working on creating a new multi AI website
 
