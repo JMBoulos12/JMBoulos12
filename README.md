@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on creating a new multi AI website
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently strengthening my **JavaScript, React, Typescript, Next** skills
 
 - 📫 How to reach me **jeanmarc8boulos@gmail.com**
 
