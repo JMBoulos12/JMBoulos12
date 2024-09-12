@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 📫 How to reach me **jmboulos@outlook.com**
+- 📫 How to reach me **jeanmarc8boulos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
